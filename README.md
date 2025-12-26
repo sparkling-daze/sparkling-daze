@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://64.media.tumblr.com/e06b76ec9ad9abc44ddc9550584e2d9a/010ff887dfe0b084-99/s2048x3072/6cc6e0be9af76be91861a194fa58e1cb96714ec8.pnj" alt="Sparkles1" width="900"/>
+</div>
 
-<!--
-**sparkling-daze/sparkling-daze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/alcohol-drinks-EDC001?style=plastic" alt="custom badge"/> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+<img src="https://files.catbox.moe/6c1i97.gif" alt="Sparkling" width="500"/>
+</div>
