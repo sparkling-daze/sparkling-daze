@@ -16,4 +16,4 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?lines='+We+hope+you+enjoy+your+stay.+';'+Have+a+glass!+It's+on+me.+';'+Your+first+sip+might+be+a+bit...+`unpleasant.`+';&font=Libertinus+Math&center=true&width=1080&height=50&color=DECA57&duration=4000&pause=2500">
+<img src="https://readme-typing-svg.demolab.com/?lines='+We+hope+you+enjoy+your+stay.+';'+Have+a+glass!+It's+on+me.+';'+Your+first+sip+might+be+a+bit...+`unpleasant.`+';'+Such+lively+guests!+';'+That+was+a+splendid+display.+';'+The+party's+over...+';'+Take+a+sip.+What+do+you+think?+';'+How+about+a+glass+of+pure+happiness?+';'+The+first+special+order+has+your+name+on+it!+';'+You+look+dazzling+today!+';'+I've+prepared+this+glass+just+for+you.+';'+You+are+tonight's+guest+of+honor!+'&font=Libertinus+Math&center=true&width=1080&height=50&color=DECA57&duration=4000&pause=2500">
