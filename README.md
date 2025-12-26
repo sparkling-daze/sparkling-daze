@@ -5,7 +5,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/44a52f031e46bc208501f0970f8c5839/010ff887dfe0b084-a0/s2048x3072/62c275ad6ab7ec365757ab22e65e0c3d615828b5.pnj" alt="Sparkles2" width="850"/>
+  <img src="https://64.media.tumblr.com/44a52f031e46bc208501f0970f8c5839/010ff887dfe0b084-a0/s2048x3072/62c275ad6ab7ec365757ab22e65e0c3d615828b5.pnj" alt="Sparkles2" width="800"/>
 </div>
 
 <br>
@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/44a52f031e46bc208501f0970f8c5839/010ff887dfe0b084-a0/s2048x3072/62c275ad6ab7ec365757ab22e65e0c3d615828b5.pnj" alt="Sparkles3" width="850"/>
+  <img src="https://64.media.tumblr.com/44a52f031e46bc208501f0970f8c5839/010ff887dfe0b084-a0/s2048x3072/62c275ad6ab7ec365757ab22e65e0c3d615828b5.pnj" alt="Sparkles3" width="800"/>
 </div>
 
 
