@@ -11,5 +11,9 @@
 
 
 <div align="center">
-<img src="https://files.catbox.moe/6c1i97.gif" alt="Sparkling" width="500"/>
+<img src="https://files.catbox.moe/6c1i97.gif" alt="Sparkling" width="600"/>
 </div>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?lines='+We+hope+you+enjoy+your+stay.+';'+Have+a+glass!+It's+on+me.+';'+Your+first+sip+might+be+a+bit...+`unpleasant.`+';&font=Libertinus+Math&center=true&width=1080&height=50&color=DECA57&duration=4000&pause=2500">
